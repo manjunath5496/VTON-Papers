@@ -118,72 +118,69 @@ Practical Video-based Virtual Clothing Try-on</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(60).pdf" style="text-decoration:none;">Disentangled Cycle Consistency for Highly-realistic Virtual Try-On </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(61).pdf" style="text-decoration:none;">DNS Performance and the Effectiveness of Caching</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(61).pdf" style="text-decoration:none;">VITON-GT: An Image-based Virtual Try-On Model
+with Geometric Transformations</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(62).pdf" style="text-decoration:none;">Phase Reconciliation for Contended In-Memory Transactions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(62).pdf" style="text-decoration:none;">3D Virtual Garment Modeling from RGB Images</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(63).pdf" style="text-decoration:none;">Locating Cache Performance Bottlenecks Using Data Profiling</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(63).pdf" style="text-decoration:none;">End-to-End Learning of Geometric Deformations of Feature Maps for Virtual Try-On</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(64).pdf" style="text-decoration:none;">Understanding Real-World Concurrency Bugs in Go</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(64).pdf" style="text-decoration:none;">Generating Person Images with Appearance-aware Pose Stylizer</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(65).pdf" style="text-decoration:none;">Dynamic Computation Migration
-in Distributed Shared Memory Systems </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(65).pdf" style="text-decoration:none;">SIZER: A Dataset and Model for Parsing 3D
+Clothing and Learning Size Sensitive 3D Clothing </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(66).pdf" style="text-decoration:none;">Extracting and Optimizing low-level bytecode from High-level verified Coq</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(66).pdf" style="text-decoration:none;">VTNFP: An Image-based Virtual Try-on Network with Body and Clothing Feature Preservation</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(67).pdf" style="text-decoration:none;">Multiprocessing with the Exokernel Operating System</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(67).pdf" style="text-decoration:none;">Towards Multi-pose Guided Virtual Try-on Network</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(68).pdf" style="text-decoration:none;">Fast and Flexible Application-Level
-Networking on Exokernel Systems</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(68).pdf" style="text-decoration:none;">CloTH-VTON: Clothing Three-dimensional
+reconstruction for Hybrid image-based Virtual Try-ON</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(69).pdf" style="text-decoration:none;">Device Transparency: a New Model for Mobile Storage</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(69).pdf" style="text-decoration:none;">M2E-Try On Net: Fashion from Model to Everyone</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(70).pdf" style="text-decoration:none;">Eyo: Device-Transparent Personal Storage</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(70).pdf" style="text-decoration:none;">Image Based Virtual Try-on Network from Unpaired Data</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(71).pdf" style="text-decoration:none;">Measuring the Effects of Internet Path Faults on
-Reactive Routing</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(71).pdf" style="text-decoration:none;">Toward Characteristic-Preserving Image-based
+Virtual Try-On Network</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(72).pdf" style="text-decoration:none;">A Distributed Hash Table</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(72).pdf" style="text-decoration:none;">VITON: An Image-based Virtual Try-on Network</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(73).pdf" style="text-decoration:none;">Firmament: fast, centralized cluster scheduling at scale</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(74).pdf" style="text-decoration:none;">Information Flow Control for Standard OS Abstractions</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(75).pdf" style="text-decoration:none;">UIA: A Global Connectivity Architecture
-for Mobile Personal Devices</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(76).pdf" style="text-decoration:none;">Specifying Crash Safety for Storage Systems</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(73).pdf" style="text-decoration:none;">Pose Guided Fashion Image Synthesis Using Deep Generative Model</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(74).pdf" style="text-decoration:none;">Virtual Try-on of Eyeglasses using 3D Model of the Head</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(75).pdf" style="text-decoration:none;">Deep Garment Image Matting for a Virtual Try-on System</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(76).pdf" style="text-decoration:none;">Pose Guided Person Image Generation</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(77).pdf" style="text-decoration:none;">Using Crash Hoare Logic for Certifying the FSCQ File System</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(77).pdf" style="text-decoration:none;">FashionFit: Analysis of Mapping 3D Pose and
+Neural Body Fit for Custom Virtual Try-On</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(78).pdf" style="text-decoration:none;">An Approach to Improve the Performance
-of Insertion Sort Algorithm</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(79).pdf" style="text-decoration:none;">Integrity and access control in untrusted content distribution networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(78).pdf" style="text-decoration:none;">CP-VTON+: Clothing Shape and Texture Preserving Image-Based Virtual Try-On</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(79).pdf" style="text-decoration:none;">Virtually Trying on New Clothing with Arbitrary Poses</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(80).pdf" style="text-decoration:none;">Waddle: A proven interpreter and test framework
-for a subset of the Go semantics</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(80).pdf" style="text-decoration:none;">Human Appearance Transfer</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(81).pdf" style="text-decoration:none;">The Grid Roofnet:
-a Rooftop Ad Hoc Wireless Network</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(82).pdf" style="text-decoration:none;">Hare: a file system for non-cache-coherent multicores</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(81).pdf" style="text-decoration:none;">3D Reconstruction of Clothes using a Human Body Model and its Application to Image-based Virtual Try-On</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(82).pdf" style="text-decoration:none;">Deformable GANs for Pose-based Human Image Generation</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(83).pdf" style="text-decoration:none;">Certifying a Crash-safe File System</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(84).pdf" style="text-decoration:none;">An Overview of Approaches Used In Focused Crawlers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(83).pdf" style="text-decoration:none;">SieveNet: A Unified Framework for Robust Image-Based Virtual Try-On</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(84).pdf" style="text-decoration:none;">SwapNet: Image Based Garment Transfer</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(85).pdf" style="text-decoration:none;">Network Layer Support for Overlay Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(86).pdf" style="text-decoration:none;">Device-Transparent Personal Storage</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(85).pdf" style="text-decoration:none;">Keypoints-Based 2D Virtual Try-on Network System</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(86).pdf" style="text-decoration:none;">Powering Virtual Try-On via Auxiliary Human Segmentation Learning</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(87).pdf" style="text-decoration:none;">Bit-rate Selection in Wireless Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(88).pdf" style="text-decoration:none;">Routing Tradeoffs in Dynamic Peer­to­peer Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(89).pdf" style="text-decoration:none;">Jitk: A Trustworthy In-Kernel Interpreter Infrastructure</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(87).pdf" style="text-decoration:none;">Generating High-Resolution Fashion Model Images Wearing Custom Outfits</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(88).pdf" style="text-decoration:none;">FW-GAN: Flow-navigatedWarping GAN for Video Virtual Try-on</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(89).pdf" style="text-decoration:none;">Regularized Adversarial Training for Single-shot Virtual Try-On</a></li>
   
   
-  <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(90).pdf" style="text-decoration:none;"> Applying Exokernel Principles to Conventional. Operating Systems</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(91).pdf" style="text-decoration:none;">User Authentication and Remote Execution
-Across Administrative Domains</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(90).pdf" style="text-decoration:none;"> A mixed reality system for virtual glasses try-on</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/VTON-Papers/blob/master/vn(91).pdf" style="text-decoration:none;">Robust Cloth Warping via Multi-Scale Patch Adversarial Loss for Virtual Try-On Framework</a></li>
 
  </ul>
   
