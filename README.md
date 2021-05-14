@@ -1,1 +1,1 @@
-# VTON-Papers
+# Virtual Try-on Papers
